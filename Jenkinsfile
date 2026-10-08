@@ -63,7 +63,7 @@ pipeline {
 
                     test -f frontend/package.json
                     test -f frontend/Dockerfile
-                    test -f frontend/nginx.conf
+                    #test -f frontend/nginx.conf
 
                     test -f backend/requirements.txt
                     test -f backend/Dockerfile

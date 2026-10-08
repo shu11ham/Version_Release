@@ -1,5 +1,5 @@
 !#/bin/bash
 
 git add .
-git commit -m "first"
+git commit -m "updated"
 git push
