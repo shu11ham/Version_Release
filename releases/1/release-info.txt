@@ -1,0 +1,19 @@
+TaskFlow Release
+
+Release Version:
+1
+
+Git Commit:
+191e722
+
+Frontend Image:
+taskflow-frontend:191e722
+
+Backend Image:
+taskflow-backend:191e722
+
+Created At:
+2026-10-08 15:23:55
+
+Status:
+CREATED
